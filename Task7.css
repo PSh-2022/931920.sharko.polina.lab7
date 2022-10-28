@@ -1,0 +1,22 @@
+.circle{	
+    position: absolute;
+	width: 100px;
+	height: 100px;
+	background: green;
+	border-radius: 50px;
+    border: 1px solid black;
+	opacity: 0.8;}
+.square{
+    position: absolute;
+	width: 100px;
+	height: 100px;
+	background: red;
+    border: 1px solid black;
+	opacity: 0.8;}
+.triangle{
+    position: absolute;
+	border-left: 50px solid transparent;
+	border-right: 50px solid transparent;
+	border-bottom: 25px solid blue;
+	opacity: 0.8;}
+#res{position: absolute;}
